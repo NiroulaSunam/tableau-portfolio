@@ -48,8 +48,10 @@ This project analyzes global CO₂ emissions data, focusing on **average CO₂ p
 
 ### **Files in this Repository**
 
-- `co2_dashboard.twbx` — Tableau packaged workbook.
-- `dashboard_screenshot.png` — Preview of the final dashboard.
+- `CO2_production.twbx` — Tableau packaged workbook.
+- `screenshot_dashboard.png`
+  `screenshot_dashboard2.png`
+  — Preview of the final dashboard.
 
 ---
 
